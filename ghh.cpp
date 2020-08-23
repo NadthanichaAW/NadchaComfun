@@ -19,6 +19,6 @@ int main()
 	}
 	else 
 		printf("Sorry your money is over ");
-
+	//eiei
 	return 0;
 }
